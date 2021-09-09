@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kashifaleem
+- 👀 I’m interested in AI, Machine Learning, Rust and Data Science
+- 🌱 I’m currently learning React JS and Azure
+- 💞️ I’m looking to collaborate on Open source projects.
+- 📫 How to reach me : kashif.aleem@yahoo.com
